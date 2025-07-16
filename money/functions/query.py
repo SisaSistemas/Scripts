@@ -1,8 +1,8 @@
 import pyodbc
+import os
 '''
 This archive is for exect Querys to automation process on SisaBD
 '''
-
 
 def query(query:str):
     '''
